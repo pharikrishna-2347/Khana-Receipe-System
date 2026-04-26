@@ -1,5 +1,5 @@
 
-# 🍳 BiteBuilder – Personalized Cooking System (2024)
+# 🍳 BiteBuilder – Personalized Cooking System (2026)
 
 **BiteBuilder** is a **full-stack AI-driven cooking management platform** that helps users plan, organize, and enhance their cooking experience.  
 It offers **intelligent recipe search**, **ingredient-based discovery**, **drag-and-drop meal planning**, and a **smart grocery list generator** — all powered by AI and optimized data structures.
