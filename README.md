@@ -40,5 +40,3 @@ It offers **intelligent recipe search**, **ingredient-based discovery**, **drag-
 
 ---
 
-## 🧩 Architecture Overview
-
